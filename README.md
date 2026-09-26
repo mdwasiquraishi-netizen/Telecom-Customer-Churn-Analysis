@@ -41,7 +41,7 @@ The analysis identifies **tenure, contract type, payment method, internet servic
 ### 📁 Project Files
 
 ‪- <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/Telco-Customer-Churn%20(1).csv">Dataset</a>
-- <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/Business%20problem%20and%20answer(SQL%20QUERY).docx">SQL QUERY</a>
+- <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/TELECOM%20SQL%20QUERY.sql">SQL QUERY</a>
 - <a href="
 
 
