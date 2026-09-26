@@ -43,5 +43,10 @@ The analysis identifies **tenure, contract type, payment method, internet servic
 ‪- <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/Telco-Customer-Churn%20(1).csv">Dataset</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/TELECOM%20SQL%20QUERY.sql">SQL QUERY</a>
 - <a href="https://github.com/mdwasiquraishi-netizen/Telecom-Customer-Churn-Analysis/blob/main/customerchurndashboard.pbix">Power BI</a>
+<img width="986" height="549" alt="Screenshot 2026-09-24 231134" src="https://github.com/user-attachments/assets/ee7f0e04-a191-4c18-8255-e27c58e2de76" />
+<img width="982" height="549" alt="Screenshot 2026-09-24 231155" src="https://github.com/user-attachments/assets/835522fb-5123-4ba7-866f-d746a402d6a9" />
+<img width="983" height="548" alt="Screenshot 2026-09-24 231223" src="https://github.com/user-attachments/assets/94594f6d-9128-4512-8b8e-ac1fe3ea7875" />
+
+
 
 
